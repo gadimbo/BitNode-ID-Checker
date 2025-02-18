@@ -1,2 +1,2 @@
-# BitNode-ID-Checker
+# Seed Generator
 
